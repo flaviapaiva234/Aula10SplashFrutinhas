@@ -1,7 +1,7 @@
 # Aula10SplashFrutinhas
 Aula 10 Splash, View Pager e Toolbar
 
-Foi adicione ícones a uma toolbar, sendo que um deles conduz o usuário a uma segunda activity.
+Foi adicionado ícones em uma toolbar, sendo que um deles conduz o usuário a uma segunda activity.
 
 O usuário pode retornar à primeira activity através do clique sobre o ícone de retornar.
 
